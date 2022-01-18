@@ -5,7 +5,7 @@ variable "resource_group" {
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "xf_name"
+  default     = "xfname"
 }
 
 variable "location" {
