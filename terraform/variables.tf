@@ -1,6 +1,6 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "event_group"
+  default = "gitgroup"
 }
 
 variable "application_name" {
